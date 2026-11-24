@@ -17,6 +17,6 @@ The report has two pages, **Sales** and **Profit**, laid out the same way so the
 Microsoft Power BI Desktop (report design, slicers and page navigation).
 
 ## How to view
-**Try it in your browser:** an interactive rebuild of this report, with the same Sales and Profit pages and the same Segment and Month slicers, is on my portfolio: https://claude.ai/artifact/53jnXLzmiMA9cJRdtBkY8S
+**Try it in your browser:** an interactive rebuild of this report, with the same Sales and Profit pages and the same Segment and Month slicers, is on my portfolio: https://paulolaide25.github.io/
 
 **Open the original file:** download `Arrowcorp Sales.pbix` and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
