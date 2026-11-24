@@ -11,10 +11,12 @@ The report has two pages, **Sales** and **Profit**, laid out the same way so the
 | Donut chart: by ship mode | Which shipping methods bring in the most sales and profit? |
 | Bar chart: top 5 cities | Which cities perform best? |
 | Bar chart: bottom 5 cities | Which cities perform worst? |
-| Slicers: customer segment, month and year | Filter every chart on the page at once |
+| Slicers: customer segment and order month | Filter every chart on the page at once |
 
 ## Tools
 Microsoft Power BI Desktop (report design, slicers and page navigation).
 
 ## How to view
-Download `Arrowcorp Sales.pbix` and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
+**Try it in your browser:** an interactive rebuild of this report, with the same Sales and Profit pages and the same Segment and Month slicers, is on my portfolio: https://claude.ai/artifact/53jnXLzmiMA9cJRdtBkY8S
+
+**Open the original file:** download `Arrowcorp Sales.pbix` and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
